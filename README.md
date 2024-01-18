@@ -1,6 +1,7 @@
 # SquareLib
 ### Library fo calculating a square for a shapes
 this is my test task
+task №2 see in scripts folder
 
 ## Features
 
